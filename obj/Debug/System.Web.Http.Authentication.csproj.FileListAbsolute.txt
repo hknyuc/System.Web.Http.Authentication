@@ -1,0 +1,9 @@
+c:\users\hakanyu\source\repos\AgrosControlApp\System.Web.Authentication\obj\Debug\System.Web.Http.Authentication.csproj.CoreCompileInputs.cache
+c:\users\hakanyu\source\repos\AgrosControlApp\System.Web.Authentication\obj\Debug\System.Web.Http.Authentication.csprojAssemblyReference.cache
+c:\users\hakanyu\source\repos\AgrosControlApp\System.Web.Authentication\bin\Debug\System.Web.Authentication.dll
+c:\users\hakanyu\source\repos\AgrosControlApp\System.Web.Authentication\bin\Debug\System.Web.Authentication.pdb
+c:\users\hakanyu\source\repos\AgrosControlApp\System.Web.Authentication\bin\Debug\System.Web.Http.dll
+c:\users\hakanyu\source\repos\AgrosControlApp\System.Web.Authentication\bin\Debug\System.Web.Http.xml
+c:\users\hakanyu\source\repos\AgrosControlApp\System.Web.Authentication\obj\Debug\System.Web.Http.Authentication.csproj.CopyComplete
+c:\users\hakanyu\source\repos\AgrosControlApp\System.Web.Authentication\obj\Debug\System.Web.Authentication.dll
+c:\users\hakanyu\source\repos\AgrosControlApp\System.Web.Authentication\obj\Debug\System.Web.Authentication.pdb
