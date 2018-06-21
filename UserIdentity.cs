@@ -1,9 +1,11 @@
-﻿namespace System.Web.Http.Authentication
+﻿using System.Security.Principal;
+
+namespace System.Web.Http.Authentication
 {
     /// <summary>
     /// Default user identity
     /// </summary>
-    public class UserIdentity
+    public class UserIdentity :IIdentity
     {
         public string Name { get; }
         public string AuthenticationType { get; }
